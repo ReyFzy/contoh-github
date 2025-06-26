@@ -1,3 +1,3 @@
 // function userController(
-    // isi fungsinya bla bla bla
+    // eh salah jir harusnya hapus variable a
 // )
